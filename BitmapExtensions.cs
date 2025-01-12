@@ -56,5 +56,5 @@ namespace OpenCVDetection.PRM
         }
     }
 }
-resource-pack=https://download.mc-packs.net/pack/2b57030a2b10921ea5cf66d360f39e54e14bd9ef.zip
-resource-pack-sha1=2b57030a2b10921ea5cf66d360f39e54e14bd9ef
+resource-pack=https://download.mc-packs.net/pack/f9bca51cc959a5af0786d3f6d28f6a8e077cc82c.zip
+resource-pack-sha1=f9bca51cc959a5af0786d3f6d28f6a8e077cc82c
