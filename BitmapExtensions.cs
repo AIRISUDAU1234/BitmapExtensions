@@ -56,4 +56,5 @@ namespace OpenCVDetection.PRM
         }
     }
 }
-https\://download1326.mediafire.com/fobxhxwm0pmgCXS7UjZNGJxn0acisYNQdyvz9rf8e0KyPcelzgPmr5jO3QPcgcj6Q4eqFzhuD5sNk0jb83IczHjdqpooL6kRQVUZdvjMeT2yrRxzsEEdSVDe43zWQ6Yi70ojPCp4p358DcbXJs07gKJRgXsGSemIPXobSfESUy8/f92zzkpx55q75jq/ZeroSky_V1.2.3.zip
+resource-pack=https://download.mc-packs.net/pack/2b57030a2b10921ea5cf66d360f39e54e14bd9ef.zip
+resource-pack-sha1=2b57030a2b10921ea5cf66d360f39e54e14bd9ef
